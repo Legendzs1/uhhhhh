@@ -8,5 +8,6 @@
   "license": "MIT",
   "dependencies": {
     "redis": "4.6.5"
-  }
+  },
+  "type": "module"
 }
