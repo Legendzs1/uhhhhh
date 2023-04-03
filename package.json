@@ -7,6 +7,6 @@
   "author": "Legendzs1 <46654819+Legendzs1@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "redis": "^4.6.5"
+    "redis": "4.6.5"
   }
 }
